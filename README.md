@@ -88,7 +88,9 @@ Click <a href="https://laravel.com/docs/11.x/scheduling#running-the-scheduler-lo
 
 ## TODO
 
-Unit Test is crucial to make sure code coverage and quality and ignore legacy .Need to Repository , Providers, Controllers 
+1. Unit Test is crucial to make sure code coverage and quality and ignore legacy .Need to Repository , Providers, Controllers 
+2. For Optimization, it`s recommended to use DB region based replica sets for load balancing as this is public service application
+3. For better UX Vue/react is recommended in client side 
 
 ## Note
 No User authentication , and authorization has been implemented 
